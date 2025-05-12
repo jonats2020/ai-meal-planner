@@ -1,8 +1,5 @@
 # 🍽️ AI Meal Planner Mobile App
 
-![meal planner app](https://github.com/user-attachments/assets/a5d0373d-3367-4ac4-b0f2-1a3bb61e25b4)
-
-
 This is a simple AI-powered meal planner app that generates personalized meal plans based on user preferences. It includes calorie information and preparation steps for each meal.
 
 ## 🚀 Built in Replit
@@ -30,3 +27,12 @@ Clone the repo and run it locally:
 git clone https://github.com/your-username/ai-meal-planner.git
 cd ai-meal-planner
 ```
+You may need to add your OpenAI API key or other config in a .env file.
+
+## 📄 License
+MIT License
+
+Built with speed and creativity using AI tools 💡
+
+![SimulatorScreenRecording-iPhone15Pro-2025-05-12at17 23 36-ezgif com-optimize](https://github.com/user-attachments/assets/8313c1bb-443e-4aa6-b80d-c4437c277b57)
+
