@@ -4,10 +4,6 @@ This is a simple AI-powered meal planner app that generates personalized meal pl
 
 ![Group 2](https://github.com/user-attachments/assets/c53ae2ee-f493-4fb5-8a59-4bf193fa462c)
 
-## 🚀 Built in Replit
-
-This project was created in just a few hours using Replit. It showcases how AI tools can be used to build useful apps quickly. After initial development, I fixed and refined parts of the code to improve functionality and usability.
-
 ## ✨ Features
 
 - AI-generated meal plans
